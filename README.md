@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=parham075&label=Profile%20views&color=0e75b6&style=flat" alt="parham075" /> 
+  <img src="https://komarev.com/ghpvc/?username=pmembari&label=Profile%20views&color=0e75b6&style=flat" alt="pmembari" /> 
 </p>
 
 ---
@@ -12,7 +12,7 @@
 * 🔭 I’m currently working on [Earth Observation Application Package](https://github.com/eoap) and [Medical Open Network for Artificial Intelligence](https://monai.io)
 * 👨‍💻 All of my projects are available at:
 
-  * [https://github.com/parham075](https://github.com/parham075)
+  * [https://github.com/pmembari](https://github.com/pmembari)
   * [https://github.com/parham-membari-terradue](https://github.com/parham-membari-terradue)
 * 💬 Ask me about **Machine Learning / NLP / Data Engineering / MLOps**
 * 📫 How to reach me: **[p.membari96@gmail.com](mailto:p.membari96@gmail.com)**
@@ -23,11 +23,11 @@
 
 | Project                                                                                                       | Project                                                                                                         | Project                                                                                             |
 | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| [Teaching Assistant – NLP (Sapienza)](https://github.com/iacopomasi/NLP)                                      | [Kidney-Tumor-Classification-with-mlflow](https://github.com/parham075/Kidney-Tumor-Classification-with-mlflow) | [ML-Language-Traslation](https://github.com/parham075/ML-Language-Traslation)                       |
-| [NTA-LLM (No Teacher Assistant)](https://github.com/parham075/NTA-LLM)                                        | [Stock-Sentiment-Analysis-NLP](https://github.com/parham075/Stock-Sentiment-Analysis-NLP)                       | [TextSummerizer-NLP](https://github.com/parham075/TextSummerizer-NLP)                               |
-| [ICR-Identifying-Age-Related-Conditions](https://github.com/parham075/ICR-Identifying-Age-Related-Conditions) | [nlp-spam-classifier](https://github.com/parham075/nlp-spam-classifier)                                         | [NLP-Big-Data-Book-Classification](https://github.com/parham075/NLP-Big-Data-Book-Classification)   |
-| [titanic-from-disaster](https://github.com/parham075/titanic-from-disaster)                                   | [House-prices-in-Thehran](https://github.com/parham075/House-prices-in-Thehran)                                 | [Taxi-Fare_Prediction](https://github.com/parham075/Taxi-Fare_Prediction)                           |
-| [Sleep-stage-classification](https://github.com/parham075/Sleep-stage-classification)                         | [Torch-practice](https://github.com/parham075/Torch-practice)                                                   | [circuits-component-detection-yolo](https://github.com/parham075/circuits-component-detection-yolo) |
+| [Teaching Assistant – NLP (Sapienza)](https://github.com/iacopomasi/NLP)                                      | [Kidney-Tumor-Classification-with-mlflow](https://github.com/pmembari/Kidney-Tumor-Classification-with-mlflow) | [ML-Language-Traslation](https://github.com/pmembari/ML-Language-Traslation)                       |
+| [NTA-LLM (No Teacher Assistant)](https://github.com/pmembari/NTA-LLM)                                        | [Stock-Sentiment-Analysis-NLP](https://github.com/pmembari/Stock-Sentiment-Analysis-NLP)                       | [TextSummerizer-NLP](https://github.com/pmembari/TextSummerizer-NLP)                               |
+| [ICR-Identifying-Age-Related-Conditions](https://github.com/pmembari/ICR-Identifying-Age-Related-Conditions) | [nlp-spam-classifier](https://github.com/pmembari/nlp-spam-classifier)                                         | [NLP-Big-Data-Book-Classification](https://github.com/pmembari/NLP-Big-Data-Book-Classification)   |
+| [titanic-from-disaster](https://github.com/pmembari/titanic-from-disaster)                                   | [House-prices-in-Thehran](https://github.com/pmembari/House-prices-in-Thehran)                                 | [Taxi-Fare_Prediction](https://github.com/pmembari/Taxi-Fare_Prediction)                           |
+| [Sleep-stage-classification](https://github.com/pmembari/Sleep-stage-classification)                         | [Torch-practice](https://github.com/pmembari/Torch-practice)                                                   | [circuits-component-detection-yolo](https://github.com/pmembari/circuits-component-detection-yolo) |
 
 ---
 
@@ -35,8 +35,8 @@
 
 | Project                                                                               | Project                                               |
 | ------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| [GEO-WKT](https://github.com/parham075/GEO-WKT)                                       | [sentinel2](https://github.com/parham075/sentinel2)   |
-| [ogc-api-processes-with-zoo](https://github.com/parham075/ogc-api-processes-with-zoo) | [calrissian](https://github.com/parham075/calrissian) |
+| [GEO-WKT](https://github.com/pmembari/GEO-WKT)                                       | [sentinel2](https://github.com/pmembari/sentinel2)   |
+| [ogc-api-processes-with-zoo](https://github.com/pmembari/ogc-api-processes-with-zoo) | [calrissian](https://github.com/pmembari/calrissian) |
 
 
 ---
@@ -45,8 +45,8 @@
 
 | Project                                                                                         | Project                                                               |
 | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| [COVID-19-ETL-Pipeline](https://github.com/parham075/COVID-19-ETL-Pipeline)                     | [big-data-computing](https://github.com/parham075/big-data-computing) |
-| [machine-learning-process](https://github.com/parham-membari-terradue/machine-learning-process) | [mouher-lab](https://github.com/parham075/mouher-lab)                 |
+| [COVID-19-ETL-Pipeline](https://github.com/pmembari/COVID-19-ETL-Pipeline)                     | [big-data-computing](https://github.com/pmembari/big-data-computing) |
+| [machine-learning-process](https://github.com/parham-membari-terradue/machine-learning-process) | [mouher-lab](https://github.com/pmembari/mouher-lab)                 |
 | [DEDF – Dairy Farm Data Engineering](#)                                                         |                                                                       |
 
 
@@ -56,8 +56,8 @@
 
 | Project                                                                                                           | Project                                                             |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| [ML-Training-Jobs-Mlflow-MinIO-Kubernetes](https://github.com/parham075/ML-Training-Jobs-Mlflow-MinIO-Kubernetes) | [argocd-app-config](https://github.com/parham075/argocd-app-config) |
-| [argo-automation](https://github.com/parham075/argo-automation)                                                   | [pde-code-server](https://github.com/parham075/pde-code-server)     |
+| [ML-Training-Jobs-Mlflow-MinIO-Kubernetes](https://github.com/pmembari/ML-Training-Jobs-Mlflow-MinIO-Kubernetes) | [argocd-app-config](https://github.com/pmembari/argocd-app-config) |
+| [argo-automation](https://github.com/pmembari/argo-automation)                                                   | [pde-code-server](https://github.com/pmembari/pde-code-server)     |
 
 ---
 
@@ -65,7 +65,7 @@
 
 | Project                                                       |
 | ------------------------------------------------------------- |
-| [Plant-Watering](https://github.com/parham075/Plant-Watering) |
+| [Plant-Watering](https://github.com/pmembari/Plant-Watering) |
 
 ---
 
