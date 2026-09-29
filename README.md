@@ -6,7 +6,7 @@
 <a href="https://github.com/pmembari?tab=repositories"><img src="https://img.shields.io/badge/GitHub-EXPLORE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<p align="center"><img src="./assets/about.svg" width="100%" alt="Dossier"/></p>
+## About
 
 <p align="center">
 Machine Learning Engineer working across <b>Earth Observation, geospatial AI, scientific computing and cloud-native ML systems</b>.<br/>
@@ -17,7 +17,7 @@ I build both models and the infrastructure around them — from satellite imager
 <code>Earth Observation</code> · <code>Computer Vision</code> · <code>Scientific ML</code> · <code>STAC</code> · <code>CWL</code> · <code>Kubernetes</code> · <code>Argo</code> · <code>Dask</code>
 </p>
 
-<p align="center"><img src="./assets/projects.svg" width="100%" alt="Project constellation"/></p>
+## Projects
 
 <table>
 <tr>
@@ -78,7 +78,7 @@ I build both models and the infrastructure around them — from satellite imager
 </tr>
 </table>
 
-<p align="center"><img src="./assets/stack.svg" width="100%" alt="Technology matrix"/></p>
+## Technology
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,docker,kubernetes,git,githubactions,bash,redis,kafka,mongodb,postgres&perline=14"/>
@@ -88,14 +88,14 @@ I build both models and the infrastructure around them — from satellite imager
 <code>Transformers</code> · <code>YOLO</code> · <code>ONNX</code> · <code>MLflow</code> · <code>Helm</code> · <code>Argo Workflows</code> · <code>ArgoCD</code> · <code>Dask</code> · <code>PySpark</code> · <code>Xarray</code> · <code>GDAL</code> · <code>STAC</code>
 </p>
 
-<p align="center"><img src="./assets/activity.svg" width="100%" alt="GitHub activity"/></p>
+## Activity
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=pmembari&show_icons=true&hide_border=true&theme=transparent&hide_title=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmembari&layout=compact&hide_border=true&theme=transparent"/>
 </p>
 
-<p align="center"><img src="./assets/contact.svg" width="100%" alt="Find me"/></p>
+## Connect
 
 <p align="center">
 <a href="https://www.linkedin.com/in/p-mem/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
