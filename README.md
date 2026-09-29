@@ -19,62 +19,92 @@ I build both models and the infrastructure around them — from satellite imager
 
 ## Projects
 
+### 🌍 Geospatial & Earth Observation
+
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/pmembari/GeoKit"><img src="./assets/projects/geokit.svg" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/pmembari/circuits-component-detection-yolo"><img src="./assets/projects/circuits.svg" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/pmembari/GeoKit"><img src="./assets/projects/geokit.svg" width="100%" alt="GeoKit"/></a></td>
+<td width="50%"><a href="https://github.com/pmembari/sentinel2"><img src="./assets/projects/sentinel2.svg" width="100%" alt="Sentinel-2"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/pmembari/ML-Training-Jobs-Mlflow-MinIO-Kubernetes"><img src="./assets/projects/mljobs.svg" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/pmembari/sentinel2"><img src="./assets/projects/sentinel2.svg" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/pmembari/GEO-WKT"><img src="./assets/projects/geowkt.svg" width="100%" alt="GEO-WKT"/></a></td>
+<td width="50%"><a href="https://github.com/pmembari/ogc-api-processes-with-zoo"><img src="./assets/projects/ogc.svg" width="100%" alt="OGC API Processes"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/pmembari/calrissian"><img src="./assets/projects/calrissian.svg" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/pmembari/COVID-19-ETL-Pipeline"><img src="./assets/projects/covid.svg" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/pmembari/calrissian"><img src="./assets/projects/calrissian.svg" width="100%" alt="Calrissian"/></a></td>
+<td width="50%"></td>
+</tr>
+</table>
+
+### 🧠 Machine Learning & Computer Vision
+
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/pmembari/circuits-component-detection-yolo"><img src="./assets/projects/circuits.svg" width="100%" alt="Circuit Component Detection"/></a></td>
+<td width="50%"><a href="https://github.com/pmembari/Kidney-Tumor-Classification-with-mlflow"><img src="./assets/projects/kidney.svg" width="100%" alt="Kidney Tumor Classification"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/pmembari/big-data-computing"><img src="./assets/projects/bigdata.svg" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/pmembari/argo-automation"><img src="./assets/projects/argo.svg" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/pmembari/Sleep-stage-classification"><img src="./assets/projects/sleep.svg" width="100%" alt="Sleep Stage Classification"/></a></td>
+<td width="50%"><a href="https://github.com/pmembari/House-prices-in-Thehran"><img src="./assets/projects/house.svg" width="100%" alt="Tehran House Prices"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/pmembari/argocd-app-config"><img src="./assets/projects/argocd.svg" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/pmembari/NTA-LLM"><img src="./assets/projects/nta.svg" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/pmembari/Taxi-Fare_Prediction"><img src="./assets/projects/taxi.svg" width="100%" alt="Taxi Fare Prediction"/></a></td>
+<td width="50%"><a href="https://github.com/pmembari/Torch-practice"><img src="./assets/projects/torch.svg" width="100%" alt="Torch Practice"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/pmembari/ML-Language-Traslation"><img src="./assets/projects/translation.svg" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/pmembari/TextSummerizer-NLP"><img src="./assets/projects/summarizer.svg" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/pmembari/DeepLearning-Sapienza"><img src="./assets/projects/deep.svg" width="100%" alt="DeepLearning Sapienza"/></a></td>
+<td width="50%"></td>
+</tr>
+</table>
+
+### 💬 NLP & Language Models
+
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/iacopomasi/NLP"><img src="./assets/projects/nlpsap.svg" width="100%" alt="NLP @ Sapienza"/></a></td>
+<td width="50%"><a href="https://github.com/pmembari/NTA-LLM"><img src="./assets/projects/nta.svg" width="100%" alt="NTA-LLM"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/pmembari/Stock-Sentiment-Analysis-NLP"><img src="./assets/projects/stock.svg" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/pmembari/nlp-spam-classifier"><img src="./assets/projects/spam.svg" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/pmembari/ML-Language-Traslation"><img src="./assets/projects/translation.svg" width="100%" alt="ML Language Translation"/></a></td>
+<td width="50%"><a href="https://github.com/pmembari/TextSummerizer-NLP"><img src="./assets/projects/summarizer.svg" width="100%" alt="Text Summarizer"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/pmembari/NLP-Big-Data-Book-Classification"><img src="./assets/projects/books.svg" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/pmembari/Kidney-Tumor-Classification-with-mlflow"><img src="./assets/projects/kidney.svg" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/pmembari/Stock-Sentiment-Analysis-NLP"><img src="./assets/projects/stock.svg" width="100%" alt="Stock Sentiment Analysis"/></a></td>
+<td width="50%"><a href="https://github.com/pmembari/nlp-spam-classifier"><img src="./assets/projects/spam.svg" width="100%" alt="NLP Spam Classifier"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/pmembari/Sleep-stage-classification"><img src="./assets/projects/sleep.svg" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/pmembari/Torch-practice"><img src="./assets/projects/torch.svg" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/pmembari/NLP-Big-Data-Book-Classification"><img src="./assets/projects/books.svg" width="100%" alt="Book Classification"/></a></td>
+<td width="50%"></td>
+</tr>
+</table>
+
+### ⚙️ MLOps, Data & Cloud-Native Systems
+
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/pmembari/ML-Training-Jobs-Mlflow-MinIO-Kubernetes"><img src="./assets/projects/mljobs.svg" width="100%" alt="ML Training Jobs"/></a></td>
+<td width="50%"><a href="https://github.com/parham-membari-terradue/machine-learning-process"><img src="./assets/projects/mlprocess.svg" width="100%" alt="Machine Learning Process"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/pmembari/House-prices-in-Thehran"><img src="./assets/projects/house.svg" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/pmembari/Taxi-Fare_Prediction"><img src="./assets/projects/taxi.svg" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/pmembari/COVID-19-ETL-Pipeline"><img src="./assets/projects/covid.svg" width="100%" alt="COVID-19 ETL Pipeline"/></a></td>
+<td width="50%"><a href="https://github.com/pmembari/big-data-computing"><img src="./assets/projects/bigdata.svg" width="100%" alt="Big Data Computing"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/pmembari/Plant-Watering"><img src="./assets/projects/plant.svg" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/pmembari/mouher-lab"><img src="./assets/projects/mouher.svg" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/pmembari/argo-automation"><img src="./assets/projects/argo.svg" width="100%" alt="Argo Automation"/></a></td>
+<td width="50%"><a href="https://github.com/pmembari/argocd-app-config"><img src="./assets/projects/argocd.svg" width="100%" alt="ArgoCD App Config"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/pmembari/DeepLearning-Sapienza"><img src="./assets/projects/deep.svg" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/iacopomasi/NLP"><img src="./assets/projects/nlpsap.svg" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/pmembari/pde-code-server"><img src="./assets/projects/pde.svg" width="100%" alt="PDE Code Server"/></a></td>
+<td width="50%"></td>
 </tr>
+</table>
+
+### 🧪 Other Engineering & Products
+
+<table>
 <tr>
-<td width="50%"><a href="https://github.com/pmembari/GEO-WKT"><img src="./assets/projects/geowkt.svg" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/pmembari/ogc-api-processes-with-zoo"><img src="./assets/projects/ogc.svg" width="100%"/></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/parham-membari-terradue/machine-learning-process"><img src="./assets/projects/mlprocess.svg" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/pmembari/pde-code-server"><img src="./assets/projects/pde.svg" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/pmembari/mouher-lab"><img src="./assets/projects/mouher.svg" width="100%" alt="Mouher Lab"/></a></td>
+<td width="50%"><a href="https://github.com/pmembari/Plant-Watering"><img src="./assets/projects/plant.svg" width="100%" alt="Plant Watering"/></a></td>
 </tr>
 </table>
 
