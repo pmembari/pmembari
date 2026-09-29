@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="1200" height="520" role="img" aria-label="PARHAM MEMBARI">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+<stop stop-color="#67e8f9"><animate attributeName="stop-color" values="#67e8f9;#a78bfa;#f472b6;#6ee7b7;#67e8f9" dur="12s" repeatCount="indefinite"/></stop>
+<stop offset=".5" stop-color="#a78bfa"><animate attributeName="stop-color" values="#a78bfa;#f472b6;#fcd34d;#67e8f9;#a78bfa" dur="12s" repeatCount="indefinite"/></stop>
+<stop offset="1" stop-color="#f472b6"><animate attributeName="stop-color" values="#f472b6;#67e8f9;#6ee7b7;#a78bfa;#f472b6" dur="12s" repeatCount="indefinite"/></stop>
+</linearGradient>
+<radialGradient id="orb"><stop stop-color="#fff" stop-opacity=".35"/><stop offset="1" stop-color="#fff" stop-opacity="0"/><animate attributeName="cx" values=".15;.8;.4;.15" dur="8s" repeatCount="indefinite"/><animate attributeName="cy" values=".2;.7;.35;.2" dur="9s" repeatCount="indefinite"/></radialGradient>
+<pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#fff" stroke-opacity=".07"/></pattern>
+<linearGradient id="sheen"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".32"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="100%" rx="26" fill="#07091b"/>
+<rect x="2" y="2" width="1196" height="516" rx="24" fill="none" stroke="url(#g)" stroke-width="2"/>
+<rect width="1200" height="100%" rx="26" fill="url(#g)" opacity=".12"/>
+<rect width="1200" height="100%" rx="26" fill="url(#grid)"/>
+<rect width="1200" height="100%" rx="26" fill="url(#orb)"/>
+<g opacity=".42" stroke="url(#g)" fill="none">
+<circle cx="1040" cy="260" r="82"><animate attributeName="r" values="72;96;72" dur="7s" repeatCount="indefinite"/></circle>
+<circle cx="1040" cy="260" r="120" stroke-dasharray="8 12"><animateTransform attributeName="transform" type="rotate" from="0 1040 260" to="360 1040 260" dur="20s" repeatCount="indefinite"/></circle>
+<path d="M80 390 C300 120 530 450 820 150" stroke-dasharray="5 13"><animate attributeName="stroke-dashoffset" values="0;-180" dur="8s" repeatCount="indefinite"/></path>
+</g>
+<g transform="skewX(-18)"><rect x="-300" y="-20" width="150" height="580" fill="url(#sheen)"><animate attributeName="x" values="-300;1450;-300" dur="7s" keyTimes="0;.75;1" repeatCount="indefinite"/></rect></g>
+<g font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+<text x="78" y="170" font-size="58" font-weight="800" fill="#f8fafc" filter="url(#glow)">PARHAM MEMBARI</text>
+<text x="82" y="220" font-size="20" fill="#cbd5e1" letter-spacing="5">MACHINE LEARNING ENGINEER  ·  GEO AI  ·  MLOPS</text>
+<text x="82" y="300" font-size="18" fill="#94a3b8">EARTH OBSERVATION  ·  SCIENTIFIC COMPUTING  ·  CLOUD-NATIVE ML</text>
+<g transform="translate(82 350)" font-family="monospace" font-size="14"><text fill="#67e8f9">STATUS</text><text x="76" fill="#e2e8f0">building systems where ML meets geospatial data</text><circle cx="500" cy="-5" r="5" fill="#6ee7b7"><animate attributeName="opacity" values="1;.2;1" dur="1.5s" repeatCount="indefinite"/></circle></g>
+</g></svg>
