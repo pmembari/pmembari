@@ -1,95 +1,98 @@
-<h1 align="center">Hi, I'm Parham Membari 👋</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Machine Learning Engineer · Geospatial AI · MLOps · Scientific Computing</strong>
-</p>
+# Hi, I'm Parham 👋
 
-<p align="center">
-  Building machine learning systems, scalable scientific workflows, and developer tools for geospatial data.
-</p>
+### Machine Learning Engineer · Geospatial AI · MLOps
 
-<p align="center">
-  <a href="https://linkedin.com/in/parham-membari/">
-    <img src="https://img.shields.io/badge/LinkedIn-Parham%20Membari-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:p.membari96@gmail.com">
-    <img src="https://img.shields.io/badge/Email-p.membari96%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/pmembari">
-    <img src="https://img.shields.io/badge/GitHub-pmembari-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=pmembari&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+Building intelligent systems for Earth Observation, scientific computing  
+and scalable cloud-native ML.
 
----
+<br/>
 
-## About me
+<a href="https://linkedin.com/in/parham-membari/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:p.membari96@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/pmembari?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Explore-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-I'm a Machine Learning Engineer working mainly on **Earth Observation, geospatial machine learning, scientific data processing, and cloud-native ML systems**.
+<br/><br/>
 
-My work spans the full lifecycle of ML applications, from model development and scientific data pipelines to containerized execution, workflow orchestration, deployment, and reproducibility.
+<img src="https://komarev.com/ghpvc/?username=pmembari&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" />
 
-I also enjoy building developer tools and experimenting with ideas around scientific ML, distributed computing, NLP, and data engineering.
+</div>
 
-Currently working with technologies around:
-
-- 🌍 Earth Observation and geospatial ML
-- 🤖 Machine Learning and Computer Vision
-- ⚙️ MLOps and scientific workflows
-- ☁️ Kubernetes and cloud-native systems
-- 📦 STAC, CWL and reproducible application packaging
-- 🧠 NLP and representation learning
+<br/>
 
 ---
 
-## Current work
+## 👨‍💻 About
 
-I'm currently contributing to projects around the
-[Earth Observation Application Package ecosystem](https://github.com/eoap),
-with a focus on reproducible geospatial applications, scalable ML workflows, and cloud-native execution.
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmembari&layout=compact&hide_border=true&theme=transparent" />
 
-I also maintain and experiment with several personal projects across ML, geospatial tooling, data engineering, and developer infrastructure.
+I'm a **Machine Learning Engineer** working at the intersection of
+**AI, Earth Observation and scalable computing**.
+
+My work ranges from developing ML models for satellite imagery to building
+the infrastructure required to run scientific applications reproducibly
+across distributed and cloud-native environments.
+
+Currently exploring:
+
+🌍 **Geospatial AI** — Earth Observation, satellite imagery, STAC  
+🧠 **Machine Learning** — Computer Vision, Transformers, Scientific ML  
+⚙️ **ML Systems** — MLOps, distributed processing, reproducible workflows  
+☁️ **Cloud Native** — Kubernetes, Argo, Helm, Docker  
+🛠️ **Developer Tools** — tools that make scientific data easier to work with
+
+<br clear="right"/>
 
 ---
 
-## Featured projects
+<div align="center">
+
+## ✨ Featured Work
+
+*Some of the things I'm currently building and exploring.*
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌍 GeoKit
+### 🌎 GeoKit
 
-A lightweight geospatial workspace for developers.
+**Geospatial data, directly inside your development environment.**
 
-Focus areas include:
+A lightweight workspace for exploring and processing geospatial data without leaving VS Code.
 
-- GeoTIFF visualization
-- Raster inspection
-- RGB composites
-- STAC integration
-- Geospatial processing
-- VS Code and Jupyter integration
+`GeoTIFF` `STAC` `TypeScript` `WebGL`
 
-[View project →](https://github.com/pmembari/GeoKit)
+<br/>
+
+<a href="https://github.com/pmembari/GeoKit">
+  <img src="https://img.shields.io/badge/Explore_GeoKit-181717?style=for-the-badge&logo=github" />
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧠 NLP Teaching
+### 🛰️ Earth Observation Applications
 
-Teaching material and practical notebooks created while working as a teaching assistant for NLP at Sapienza University.
+Cloud-native scientific applications and workflows for processing Earth Observation data.
 
-Topics include:
+`EO` `STAC` `CWL` `Kubernetes`
 
-- Language models
-- POS tagging
-- Vector semantics
-- Minimum edit distance
-- Spelling correction
+<br/>
 
-[View project →](https://github.com/iacopomasi/NLP)
+<a href="https://github.com/eoap">
+  <img src="https://img.shields.io/badge/Explore_EOAP-181717?style=for-the-badge&logo=github" />
+</a>
 
 </td>
 </tr>
@@ -97,123 +100,163 @@ Topics include:
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ ML Training on Kubernetes
+### 🧠 NLP @ Sapienza
 
-Experimentation with distributed ML training and model lifecycle management using:
+Teaching material and notebooks developed while working as a Teaching Assistant for NLP.
 
-- Kubernetes
-- MLflow
-- MinIO
-- containerized workloads
+`NLP` `Language Models` `Embeddings` `Python`
 
-[View project →](https://github.com/pmembari/ML-Training-Jobs-Mlflow-MinIO-Kubernetes)
+<br/>
+
+<a href="https://github.com/iacopomasi/NLP">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" />
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 👁️ Circuit Component Detection
+### 👁️ Circuit Vision
 
-Computer vision project based on my Master's thesis work for detecting components in handwritten electrical circuit diagrams.
+Computer vision for recognizing components in handwritten electrical circuit diagrams.
 
-Includes object detection experiments using YOLO-based architectures.
+Based on work from my Master's thesis.
 
-[View project →](https://github.com/pmembari/circuits-component-detection-yolo)
+`YOLO` `Computer Vision` `OpenCV`
+
+<br/>
+
+<a href="https://github.com/pmembari/circuits-component-detection-yolo">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" />
+</a>
 
 </td>
 </tr>
 </table>
 
----
-
-## Geospatial & Earth Observation
-
-Some of my geospatial and EO-related work:
-
-- [GeoKit](https://github.com/pmembari/GeoKit) — geospatial workspace and raster viewer
-- [GEO-WKT](https://github.com/pmembari/GEO-WKT)
-- [Sentinel-2 experiments](https://github.com/pmembari/sentinel2)
-- [OGC API Processes with ZOO](https://github.com/pmembari/ogc-api-processes-with-zoo)
-- [Calrissian](https://github.com/pmembari/calrissian)
+<br/>
 
 ---
 
-## Machine Learning & NLP
+<div align="center">
 
-Selected projects:
+## 🧰 Technology
+
+### AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+
+`Transformers` · `YOLO` · `ONNX` · `Scientific ML`
+
+### Cloud & MLOps
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,grafana" />
+
+`Helm` · `Argo Workflows` · `ArgoCD` · `MLflow`
+
+### Engineering & Data
+
+<img src="https://skillicons.dev/icons?i=cpp,bash,git,redis,kafka,mongodb,postgres" />
+
+`Dask` · `PySpark` · `Xarray` · `GDAL` · `STAC`
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 📊 GitHub
+
+<p>
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=pmembari&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="170"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=pmembari&hide_border=true&theme=transparent" />
+</p>
+
+</div>
+
+---
+
+## 🗂️ More projects
+
+<details>
+<summary><b>🧠 Machine Learning & NLP</b></summary>
+
+<br/>
 
 - [NTA-LLM](https://github.com/pmembari/NTA-LLM)
-- [Kidney Tumor Classification with MLflow](https://github.com/pmembari/Kidney-Tumor-Classification-with-mlflow)
+- [Kidney Tumor Classification + MLflow](https://github.com/pmembari/Kidney-Tumor-Classification-with-mlflow)
 - [Stock Sentiment Analysis](https://github.com/pmembari/Stock-Sentiment-Analysis-NLP)
 - [Text Summarizer](https://github.com/pmembari/TextSummerizer-NLP)
-- [Spam Classifier](https://github.com/pmembari/nlp-spam-classifier)
 - [Sleep Stage Classification](https://github.com/pmembari/Sleep-stage-classification)
 - [Age-Related Condition Prediction](https://github.com/pmembari/ICR-Identifying-Age-Related-Conditions)
 
----
+</details>
 
-## Data Engineering & MLOps
+<details>
+<summary><b>🌍 Geospatial & Earth Observation</b></summary>
 
-Selected projects:
+<br/>
 
+- [GeoKit](https://github.com/pmembari/GeoKit)
+- [GEO-WKT](https://github.com/pmembari/GEO-WKT)
+- [Sentinel-2](https://github.com/pmembari/sentinel2)
+- [OGC API Processes with ZOO](https://github.com/pmembari/ogc-api-processes-with-zoo)
+- [Calrissian](https://github.com/pmembari/calrissian)
+
+</details>
+
+<details>
+<summary><b>⚙️ Data Engineering & MLOps</b></summary>
+
+<br/>
+
+- [MLflow + MinIO + Kubernetes](https://github.com/pmembari/ML-Training-Jobs-Mlflow-MinIO-Kubernetes)
 - [COVID-19 ETL Pipeline](https://github.com/pmembari/COVID-19-ETL-Pipeline)
 - [Big Data Computing](https://github.com/pmembari/big-data-computing)
-- [ML Training Jobs with MLflow, MinIO & Kubernetes](https://github.com/pmembari/ML-Training-Jobs-Mlflow-MinIO-Kubernetes)
 - [Argo Automation](https://github.com/pmembari/argo-automation)
 - [ArgoCD App Config](https://github.com/pmembari/argocd-app-config)
 - [PDE Code Server](https://github.com/pmembari/pde-code-server)
 
----
+</details>
 
-## Tech stack
+<details>
+<summary><b>🌱 Other experiments</b></summary>
 
-### Machine Learning
+<br/>
 
-`Python` · `PyTorch` · `TensorFlow` · `Transformers` · `YOLO` · `OpenCV` · `ONNX`
-
-### Geospatial
-
-`GDAL` · `QGIS` · `STAC` · `Xarray` · `GeoTIFF` · `SNAP`
-
-### Cloud & MLOps
-
-`Docker` · `Kubernetes` · `Helm` · `Argo Workflows` · `ArgoCD` · `MLflow` · `GitHub Actions`
-
-### Data & Distributed Computing
-
-`Dask` · `Kafka` · `Redis` · `PySpark` · `Hadoop` · `MongoDB`
-
-### Software Engineering
-
-`Python` · `C++` · `Bash` · `FastAPI` · `Git` · `CI/CD` · `Unit Testing`
-
----
-
-## Other projects
-
-### IoT
-
-- [Plant Watering System](https://github.com/pmembari/Plant-Watering)
-
-### Product & Web Development
-
+- [Plant Watering](https://github.com/pmembari/Plant-Watering)
 - [Mouher Lab](https://github.com/pmembari/mouher-lab)
 
----
+</details>
 
-## GitHub
-
-You can also find my work across:
-
-- [github.com/pmembari](https://github.com/pmembari)
-- [github.com/parham-membari-terradue](https://github.com/parham-membari-terradue)
+<br/>
 
 ---
 
-<p align="center">
-  <strong>Interested in machine learning, scientific computing, geospatial systems, and building useful developer tools.</strong>
-</p>
+<div align="center">
 
-<p align="center">
-  Feel free to explore my repositories or connect with me on LinkedIn.
-</p>
+### 🤝 Let's connect
+
+I'm always happy to talk about **AI, geospatial technology, scientific computing,  
+open source, or interesting engineering problems.**
+
+<br/>
+
+<a href="https://linkedin.com/in/parham-membari/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:p.membari96@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<sub>Building useful things at the intersection of AI, science and software.</sub>
+
+</div>
